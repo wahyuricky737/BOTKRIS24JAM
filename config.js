@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  Kriss - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 // Script By Kris Hosting
 
