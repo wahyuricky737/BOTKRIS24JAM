@@ -60,15 +60,15 @@ global.ppulsa2 = '0882007324217'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882007324217'
-global.nomorown = '6285786211623'
+global.nomorbot = '79629460415'
+global.nomorown = '62882007324217'
 global.namebot = 'Kriss BOT'
 global.nameown = 'kris-Host'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285786211623'],
+  ['62882007324217'],
   ['62882007324217'],
   ['62882007324217'],
   ['6285786211623', 'kris-Host', true]
